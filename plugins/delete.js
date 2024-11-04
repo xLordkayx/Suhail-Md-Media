@@ -41,7 +41,7 @@ CURRENTLY RUNNING ON BETA VERSION!!
 **/
 
 
-let SuhailTechInfo = "Owner";
+let LordkayTechInc = "Owner";
 let DELCHAT = process.env.DELCHAT || "pm"; // "chat"
 /*
 cmd({
