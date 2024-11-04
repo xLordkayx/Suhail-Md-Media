@@ -45,20 +45,20 @@ CURRENTLY RUNNING ON BETA VERSION!!
 const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
-var surl = 'https://github.com/SuhailTechInfo/Suhail-Md' // Source URL
-const number = '923184474176'
-var name = ' Suhail Tech'
+var surl = 'https://github.com/xlordkayx/suhali-md' // Source URL
+const number = '2347045505096'
+var name = ' Lordkay Tech'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
-var image = 'https://telegra.ph/file/1e60489705c851f74b55e.jpg'
+var image = 'https://files.catbox.moe/e7g7d3.jpeg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
 │       「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」
-│ Name      : sυнαɪʟ ᴛᴇᴄʜ ɪиғօ
-│ Place       : ʟαнᴏʀᴇ ᴘᴋ
+│ Name      : 𝐋𝚯𝚪𝐃𝐊𝚫𝐘 𝚻𝚵𝐂𝚮
+│ Place       : 𝞜𝞘𝙂𝞢𝞒𝞘𝞓 𝙇𝞓𝙂𝞗𝙎
 │ Gender    :  ᴍᴀʟᴇ
-│ Age          : 22_
-│ Phone     : wa.me/923184474176
-│ Youtube   : Youtube.com/c/SuhailTechInfo
-│ Status     : ɢᴀᴍᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ
+│ Age          : 17_
+│ Phone     : wa.me/2347045505096
+│ Youtube   : Youtube.com/c/xlordkayx
+│ Status     : 𝐒𝐈𝐍𝐆𝐋𝐄
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
 
 
